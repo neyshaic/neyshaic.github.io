@@ -1,0 +1,12 @@
+/*traditional circle profile picture*/
+.biopic {
+  border-radius:100%;
+}
+/*text font in white in the header*/
+#header > span {
+  color: #fff;
+}
+/*color for banner on top*/
+.dark {
+  background: #2c475c !important;
+}
